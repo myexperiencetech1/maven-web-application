@@ -13,8 +13,7 @@
 <h2 align="center"> We are supporting the Ebay Black Friday Project.
 	Landmark Technologies is a software development company.
 	An ideal online training platform for DevOps and cloud Engineers.
-	we also offer interview preparations and assistance.
-	class 26 will run from october 2, 2021.
+       	class 26 will run from october 2, 2021.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
